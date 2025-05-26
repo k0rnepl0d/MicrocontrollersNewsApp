@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.mcnews.app-mergeDebugResources-3:/layout/fragment_articles.xml",
+        "source": "com.example.mcnews.app-main-6:/layout/fragment_articles.xml"
+    },
+    {
+        "merged": "com.example.mcnews.app-mergeDebugResources-3:/layout/fragment_profile.xml",
+        "source": "com.example.mcnews.app-main-6:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.mcnews.app-mergeDebugResources-3:/layout/spinner_item.xml",
+        "source": "com.example.mcnews.app-main-6:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "com.example.mcnews.app-mergeDebugResources-3:/layout/activity_article_edit.xml",
+        "source": "com.example.mcnews.app-main-6:/layout/activity_article_edit.xml"
+    },
+    {
+        "merged": "com.example.mcnews.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.example.mcnews.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mcnews.app-mergeDebugResources-3:/layout/fragment_splash.xml",
+        "source": "com.example.mcnews.app-main-6:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.example.mcnews.app-mergeDebugResources-3:/layout/item_article.xml",
+        "source": "com.example.mcnews.app-main-6:/layout/item_article.xml"
+    },
+    {
+        "merged": "com.example.mcnews.app-mergeDebugResources-3:/layout/fragment_login.xml",
+        "source": "com.example.mcnews.app-main-6:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.mcnews.app-mergeDebugResources-3:/layout/fragment_register.xml",
+        "source": "com.example.mcnews.app-main-6:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.example.mcnews.app-mergeDebugResources-3:/layout/activity_article_detail.xml",
+        "source": "com.example.mcnews.app-main-6:/layout/activity_article_detail.xml"
+    },
+    {
+        "merged": "com.example.mcnews.app-mergeDebugResources-3:/layout/fragment_editor.xml",
+        "source": "com.example.mcnews.app-main-6:/layout/fragment_editor.xml"
+    }
+]

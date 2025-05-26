@@ -1,0 +1,8 @@
+
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="fab_add_article">Добавить статью</string>
+    <string name="app_name">Новости о микроконтроллёрах</string>
+    <string name="title_splash">Заставка</string>
+    <string name="title_articles">Статьи</string>
+</resources>

@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\layout_item_article.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\layout\\item_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\layout_activity_article_edit.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\layout\\activity_article_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mcnews.app-debug-4:/xml_network_security_config.xml.flat",
+        "source": "com.example.mcnews.app-main-6:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\layout_fragment_splash.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\layout_fragment_editor.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\layout\\fragment_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\layout_activity_article_detail.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\layout\\activity_article_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\menu_menu_articles.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\menu\\menu_articles.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\layout_fragment_articles.xml.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\layout\\fragment_articles.xml"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-debug-4:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ip102\\.gradle\\daemon\\8.7\\com.example.mcnews.app-main-6:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    }
+]
